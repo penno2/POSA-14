@@ -7,7 +7,7 @@ import android.os.Message;
 import android.view.View;
 import android.widget.Toast;
 
-/** blah
+/**
  * This is the main activity that the program uses to start the
  * ThreadedDownloads application.  It allows the user to input the URL
  * of an image and download that image using one of two different
