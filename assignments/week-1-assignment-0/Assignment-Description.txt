@@ -2,7 +2,7 @@ Week 1: Programming Assignment 0 Description
 
 Released Monday, May 12, 2014
 Due Monday, May 26th, 2014
-eee
+
 In this (intentionally simple) initial assignment, you will use Java
 Threads to test several implementations of the Java BlockingQueue
 interface.  The goal is to learn how to (1) create, (2) start, (3)
