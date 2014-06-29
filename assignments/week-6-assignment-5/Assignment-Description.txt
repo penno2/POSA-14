@@ -2,7 +2,7 @@ Week 6: Programming Assignment 5
 
 Released Monday, June 16th, 2014
 Due Monday, June 30th, 2014
-blah
+
 In this assignment, you will implement a program that downloads images
 using started services and then displays them in the context of the UI
 Thread.  The user can optionally select one of two different Started
